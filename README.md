@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Docker for automation**
 
-- 👨‍💻 All of my projects are available at [AtV3Tjmi4YmpJFX9aSsFAv6GWMsz2yyPua4aJPhTE3pR](AtV3Tjmi4YmpJFX9aSsFAv6GWMsz2yyPua4aJPhTE3pR)
+- 👨‍💻 All of my projects are available at https://jillianwangari98.wixsite.com/portfolio
 
-- 💬 Ask me about **R,Python,Google earth engine**
+- 💬 Ask me about **Web Development, Programming, spatial analysis and Remote sensing**
 
 - 📫 How to reach me **jillianwangari98@gmail.com**
 
