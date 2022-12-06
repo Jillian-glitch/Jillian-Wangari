@@ -28,5 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jillian-glitch&show_icons=true&locale=en" alt="jillian-glitch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jillian-glitch&" alt="jillian-glitch" /></p>
 
