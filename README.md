@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jillian, a Geospatial Analyst
+- 👋 Hi, I’m Jillian, a Geospatial Developer
 - 👀 I’m interested in Geospatial analysis
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker for automation purposes.
 - 💞️ I’m looking to collaborate on any Geospatial related projects to the SDGs.
 - 📫 How to reach me; jillianwangari98@gmail.com
 
