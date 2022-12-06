@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jillian Wangari</h1>
-<h3 align="center">A passionate GIS Developer from Kenya</h3>
+<h3 align="center">A passionate GIS Developer/Analyst from Kenya</h3>
 
 - 🔭 I’m currently working on **Geoportal development to showcase Newyork housing**
 
