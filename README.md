@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jillian Wangari</h1>
-<h3 align="center">A passionate GIS Analyst from Kenya</h3>
+<h3 align="center">A passionate GIS Developer from Kenya</h3>
 
 - 🔭 I’m currently working on **Geoportal development to showcase Newyork housing**
 
 - 🌱 I’m currently learning **Docker for automation**
 
-- 👨‍💻 All of my projects are available at https://jillianwangari98.wixsite.com/portfolio
+- 👨‍💻 All of my projects are available at [AtV3Tjmi4YmpJFX9aSsFAv6GWMsz2yyPua4aJPhTE3pR](AtV3Tjmi4YmpJFX9aSsFAv6GWMsz2yyPua4aJPhTE3pR)
 
-- 💬 Ask me about **Web Development, Programming, spatial analysis and Remote sensing**
+- 💬 Ask me about **R,Python,Google earth engine**
 
 - 📫 How to reach me **jillianwangari98@gmail.com**
 
@@ -27,5 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jillian-glitch&show_icons=true&locale=en&layout=compact" alt="jillian-glitch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jillian-glitch&show_icons=true&locale=en" alt="jillian-glitch" /></p>
+
 
 
