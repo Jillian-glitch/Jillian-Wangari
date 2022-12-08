@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jillian Wangari</h1>
-<h3 align="center">A passionate GIS Developer from Kenya</h3>
+<h3 align="center">A passionate GIS Analyst from Kenya</h3>
 
 - 🔭 I’m currently working on **Geoportal development to showcase Newyork housing**
 
 - 🌱 I’m currently learning **Docker for automation**
 
-- 👨‍💻 All of my projects are available at [AtV3Tjmi4YmpJFX9aSsFAv6GWMsz2yyPua4aJPhTE3pR](AtV3Tjmi4YmpJFX9aSsFAv6GWMsz2yyPua4aJPhTE3pR)
+- 👨‍💻 Some of my projects are available at 
 
-- 💬 Ask me about **R,Python,Google earth engine**
+- 💬 Ask me about **Programming, web development, remote sensing and cartography**
 
 - 📫 How to reach me **jillianwangari98@gmail.com**
 
