@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker for automation**
 
-- 👨‍💻 Some of my projects are available at 
+- 👨‍💻 Some of my projects are available at https://github.com/Jillian-glitch
 
 - 💬 Ask me about **Programming, web development, remote sensing and cartography**
 
