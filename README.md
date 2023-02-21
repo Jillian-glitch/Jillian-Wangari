@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available at https://github.com/Jillian-glitch
 
-- 💬 Ask me about **Programming, web development, remote sensing and cartography**
+- 💬 Ask me about **Programming, web development, remote sensing, data analysis and maipulation**
 
 - 📫 How to reach me **jillianwangari98@gmail.com**
 
