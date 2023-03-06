@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jillian Wangari</h1>
-<h3 align="center">A passionate Data Analyst from Kenya</h3>
-
-- 🔭 I’m currently working on **Geoportal development to showcase Newyork housing**
-
-- 🌱 I’m currently learning **Docker for automation**
-
+<h3 align="center">A passionate GIS Analyst/Developer from Kenya</h3>
 - 👨‍💻 Some of my projects are available at https://github.com/Jillian-glitch
 
-- 💬 Ask me about **Programming, web development, remote sensing, data analysis and manipulation**
+- 💬 Ask me about **Programming, web development, Database Management, remote sensing, data analysis and manipulation**
 
 - 📫 How to reach me **jillianwangari98@gmail.com**
 
