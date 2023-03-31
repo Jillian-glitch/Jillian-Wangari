@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jillianwangari98@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/jilli/Documents/Work/JILLIAN%20WANGARI%20MWANGI%20CV.pdf](file:///C:/Users/jilli/Documents/Work/JILLIAN%20WANGARI%20MWANGI%20CV.pdf)
+- 📄 Know about my experiences file:///C:/Users/jilli/OneDrive/Documents/work-school/Jillian%20Wangari%20Cv.pdf
 
 - ⚡ Fun fact **I am weird and funny.**
 
