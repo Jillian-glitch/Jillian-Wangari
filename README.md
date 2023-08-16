@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jillian Wangari</h1>
-<h3 align="center">A passionate GIS Analyst/Developer from Kenya</h3>
+<h3 align="center">A passionate GIS Specialist from Kenya</h3>
 - 👨‍💻 Some of my projects are available at https://github.com/Jillian-glitch
 
-- 💬 Ask me about **Programming, web development, Database Management, remote sensing, data analysis and manipulation**
+- 💬 Ask me about **Programming, Database Management, remote sensing and data analysis**
 
 - 📫 How to reach me **jillianwangari98@gmail.com**
-
-- 📄 Know about my experiences file:///C:/Users/jilli/OneDrive/Documents/work-school/Jillian%20Wangari%20Cv.pdf
 
 - ⚡ Fun fact **I am weird and funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jillian mwangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jillian mwangi" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jillianwangarimwangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jillian mwangi" height="30" width="40" /></a>
 <a href="https://kaggle.com/jillian wangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jillian wangari" height="30" width="40" /></a>
 </p>
 
