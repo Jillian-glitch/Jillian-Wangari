@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jillian Wangari</h1>
 <h3 align="center">A passionate GIS Specialist from Kenya</h3>
-- 👨‍💻 Some of my projects are available at https://github.com/Jillian-glitch
+- 👨‍💻 Some of my projects are available here
 
-- 💬 Ask me about **Programming, Database Management, remote sensing and data analysis**
+- 💬 Ask me about **Remote Sensing, Crop Modelling, data analysis and GIS**
 
 - 📫 How to reach me **jillianwangari98@gmail.com**
 
